@@ -1,4 +1,8 @@
-# venue-search
+# Venue-search
+
+Allows users to search for Venues serving a specific product, arounda  specified area, using the foursquare API
+
+**Uses Redux to update the state in React APP**
 
 This project was built with Turbo 360. To learn more, click here: https://www.turbo360.co
 
